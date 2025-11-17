@@ -1,0 +1,31 @@
+UKU Ivanti URL List for OPNsense
+
+https://agentreg.ivanticloud.com https://agentsync.ivanticloud.com
+https://download.ivanticloud.com https://edgelocation.ivanticloud.com
+http://ocsp.usertrust.com/ https://c.pki.goog http://ocsp.digicert.com
+http://crl4.digicert.com
+http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl
+http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl
+http://crl3.digicert.com/DigiCertGlobalRootCA.crl
+http://crl.sectigo.com/SectigoRSAOrganizationValidationSecureServerCA.crl
+http://crt.r2m01.amazontrust.com/r2m01.cer
+http://crt.r2m03.amazontrust.com/r2m03.cer
+http://crl.r2m01.amazontrust.com/r2m01.crl
+http://crl.r2m03.amazontrust.com/r2m03.crl
+http://crl.rootca1.amazontrust.com/rootca1.crl
+http://ocsp.r2m01.amazontrust.com https://content.ivanti.com
+download.visualstudio.microsoft.com
+dc.services.visualstudio.com/v2/track download.windowsupdate.com
+download.microsoft.com fonts.googleapis.com/css2
+https://www.recaptcha.net/recaptcha/api.js https://app.launchdarkly.com
+https://*.blob.core.windows.net
+
+UKU specific
+
+https://ukuprd‑sfc.ivanticloud.com https://uku‑prd.mqtt.ivanticloud.com
+https://saappctrluku.blob.core.windows.net
+https://ukuprd‑rc.ivanticloud.com
+https://sapatchtenantfiles*.blob.core.windows.net
+https://ukuprd‑adpstat.ivanticloud.com
+https://rg‑uku‑prd‑discoagentmgmtdisco‑notifications‑uku.service.signalr.net/client/negotiate
+wss://rg‑uku‑prd‑discoagentmgmtdisco‑notifications‑uku.service.signalr.net/client/
